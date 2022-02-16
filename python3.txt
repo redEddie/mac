@@ -1,0 +1,12 @@
+python 2.7.18 pip
+https://mseagle.tistory.com/64
+    on 2.7, utmost pip 20.
+    https://pip.pypa.io/en/latest/development/release-process/#python-2-support
+    how to add path on mac
+    https://apple.stackexchange.com/questions/275343/how-do-i-add-a-directory-to-path-when-using-zsh-in-sierra
+
+
+파이썬 버전별로 관리하기????
+https://wooriel.tistory.com/54
+https://opensource.com/article/19/5/python-3-default-mac
+
